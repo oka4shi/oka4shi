@@ -14,7 +14,7 @@
 
 I'm a common and normal high school student. 
 
-Language and Frameworks using: Python/HTML&CSS&JS/PHP/Riot.js
+Languages and Frameworks using: Python/HTML&CSS&JS/PHP/Riot.js
 
 ### Links
 - Qiita: [@goahi](https://qiita.com/goahi)
