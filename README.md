@@ -16,9 +16,9 @@ pronunciation:[ɡóai]
 ### About
 ただのプログラミングが趣味のそのへんにいるありふれた男子高校生。
 
-言語・フレームワーク: Python/HTML&CSS&JS/PHP/Riot.js
+言語・フレームワーク: Python/HTML&CSS&JS/PHP/Svelte/Riot.js
 
 I'm a common and normal high school student. 
 
-Languages and Frameworks using: Python/HTML&CSS&JS/PHP/Riot.js
+Languages and Frameworks using: Python/HTML&CSS&JS/PHP/Svelte/Riot.js
 
