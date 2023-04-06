@@ -19,8 +19,6 @@ pronunciation:[ɡóai]
 
 
 
-### About
-4月から大学生になります。(ITF.)
-
-言語・フレームワーク: Python/Go/HTML&CSS&JS/PHP/Svelte/LaTeX
-Languages and Frameworks using: Python/Go/HTML&CSS&JS/PHP/Svelte/LaTeX
+### About Me
+- A student of the College of Policy and Planning Science, School of Science and Enginnering, University of Tsukuba (筑波大学理工学群社会工学類)
+- Languages and Frameworks using mainly: Python, Go, HTML, CSS, JavsScript, TypeScript, PHP, Svelte/Svelte Kit
