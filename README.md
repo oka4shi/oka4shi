@@ -20,5 +20,5 @@ pronunciation:[ɡóai]
 
 
 ### About Me
-- A student of the College of Policy and Planning Science, School of Science and Enginnering, University of Tsukuba (筑波大学理工学群社会工学類)
+- A student of the College of Policy and Planning Science, School of Science and Enginering, University of Tsukuba (筑波大学理工学群社会工学類)
 - Languages and Frameworks using mainly: Python, Go, HTML, CSS, JavsScript, TypeScript, PHP, Svelte/Svelte Kit
