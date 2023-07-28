@@ -1,5 +1,4 @@
-# ごあい/Goahi
-pronunciation:[ɡóai]
+# おかし/Okashi
 
 ![](https://img.shields.io/badge/age-19-informational?style=for-the-badge)
 
@@ -12,10 +11,10 @@ pronunciation:[ɡóai]
 
 ### Stats
 
-[![](https://raw.githubusercontent.com/goahi/goahi/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![Goahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=goahi&hide_title=true&theme=nord&count_private=true)
+[![](https://raw.githubusercontent.com/okashi-uji/okashi-uji/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Okashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=okashi-uji&hide_title=true&theme=nord&count_private=true)
 
-[![](https://raw.githubusercontent.com/goahi/goahi/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/okashi-uji/okashi-uji/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
