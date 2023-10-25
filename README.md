@@ -21,5 +21,5 @@
 
 ### About Me
 - he/him
-- A student of the College of Policy and Planning Science, School of Science and Enginering, University of Tsukuba (筑波大学 理工学群 社会工学類)
+- An undergraduate student at the College of Policy and Planning Science, School of Science and Enginering, University of Tsukuba (筑波大学 理工学群 社会工学類)
 - Languages and Frameworks using mainly: Python, Go, HTML, CSS, JavsScript, TypeScript, PHP, Svelte/Svelte Kit
