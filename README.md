@@ -5,7 +5,7 @@
 ![Native language: Japanese](https://img.shields.io/badge/Native_language-Japanese-orange?style=for-the-badge)
 
 
-[![Mail: primary@goahi.live](https://img.shields.io/badge/Email-primary%40goahi.live-%238B89CC?style=flat-square&logo=protonmail)](mailto:primary@goahi.live)
+[![Mail: primary@oka4shi.dev](https://img.shields.io/badge/Email-primary%40oka4shi.dev-%238B89CC?style=flat-square&logo=protonmail)](mailto:primary@oka4shi.dev)
 
 ## Other platforms
 [![AtCoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Foka4shi&style=flat-square)](https://atcoder.jp/users/oka4shi)
