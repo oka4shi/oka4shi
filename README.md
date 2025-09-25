@@ -22,8 +22,6 @@
 ## Stats
 
 [![GitHub stats](https://raw.githubusercontent.com/oka4shi/oka4shi/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oka4shi&hide_title=false&theme=nord&count_private=true)
-
 ![Top Languages by Repo](https://raw.githubusercontent.com/oka4shi/oka4shi/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 ![Top Languages by Commit](https://raw.githubusercontent.com/oka4shi/oka4shi/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 
