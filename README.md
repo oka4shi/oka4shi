@@ -1,6 +1,6 @@
 # おかし/Okashi
 
-![Age: 21](https://img.shields.io/badge/age-21-informational?style=for-the-badge)
+![Age: 22](https://img.shields.io/badge/age-21-informational?style=for-the-badge)
 
 ![Native language: Japanese](https://img.shields.io/badge/Native_language-Japanese-orange?style=for-the-badge)
 
